@@ -1,0 +1,52 @@
+.nav-logo {
+    max-width: 200px;
+}
+.nav-logo-area {
+    width: 50%;
+}
+
+
+.top-section {
+    background-color: #f8d6e3;
+}
+.top-area h1{
+    color: rgb(0, 0, 65);
+}
+.special-color{
+    color: tomato;
+}
+.card {
+    
+    padding-top: 20px;
+    border: 0;
+    box-shadow: 2px 3px 15px gray;
+    border-radius: 8px;
+}
+.casual-shoes .card .card-img{
+
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+.card:hover{
+    box-shadow: 1px 1px 5px lightgray;
+}
+
+
+.contact-area-icon{
+    max-width: 100px;
+}
+
+.footer-img {
+    padding-top: 30px;
+    max-width: 250px;
+    margin: 10px auto;
+
+}
+
+.footer-info a{
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 5px;
+    color: white;
+}
